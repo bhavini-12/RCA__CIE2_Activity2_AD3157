@@ -62,12 +62,18 @@ The dataset contains 30 numerical input features.
 
 The Logistic Regression model was evaluated using the following classification metrics:
 
-- **Accuracy:** [Enter actual value]
-- **Precision:** [Enter actual value]
-- **Recall:** [Enter actual value]
-- **Specificity:** [Enter actual value]
-- **F1-score:** [Enter actual value]
-- **ROC-AUC:** [Enter actual value]
+## 5. Model Evaluation Results
+
+The Logistic Regression model achieved the following test results:
+
+- **Accuracy:** 96.49%
+- **Precision:** 97.50%
+- **Recall:** 92.86%
+- **Specificity:** 98.61%
+- **F1-score:** 95.12%
+- **ROC-AUC:** 0.9960
+
+The model achieved 96.49% accuracy, indicating strong classification performance. Its recall of 92.86% means it correctly identified most malignant cases, while its ROC-AUC of 0.996 indicates excellent ability to distinguish between the two classes.
 
 ## 6. Threshold Comparison
 
